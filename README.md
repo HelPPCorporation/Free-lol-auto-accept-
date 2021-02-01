@@ -1,14 +1,6 @@
-# -*- Code by Dhiego -*-
-# Contributors
-# * Pacman
-# * R0htg0r
-
-
-# Discord Comunit
+# <h1 size="7">Discord Comunit</h1>
 # junte-se a nossa comunidade
-# join our community
-https://discord.gg/zwcmqrXGE2
-
+# <a href="https://discord.gg/zwcmqrXGE2">join our community</a>
 
 
 # Descriptions
@@ -29,3 +21,8 @@ HelPP é sem complicação
 # Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de League of Legends quando você estiver dispercebido.
 
 # Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
+
+# -*- Code by Dhiego -*-
+# Contributors
+# * Pacman
+# * R0htg0r
