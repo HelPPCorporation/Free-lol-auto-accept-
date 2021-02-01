@@ -1,6 +1,7 @@
 # -*- Code by Dhiego -*-
 # Contributors
 # * Pacman
+# * R0htg0r
 
 
 # Discord Comunit
