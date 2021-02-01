@@ -1,4 +1,8 @@
 # -*- Code by Dhiego -*-
+# Contributors
+# Pacman
+
+
 # Discord Comunit
 # junte-se a nossa comunidade
 # join our community
