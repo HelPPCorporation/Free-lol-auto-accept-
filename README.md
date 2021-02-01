@@ -1,4 +1,4 @@
--*- Code by Dhiego -*-
+# -*- Code by Dhiego -*-
 # Dicord Comunit
 # junte-se a nossa comunidade
 # join our community
@@ -19,7 +19,7 @@ HelPP é sem complicação
 # 2 - Entre na pasta HelPP
 # 3 - Execute o HelPP_V_0.0.1.exe
 # 4 - Agora é só clicar em Start 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img2.png)
 
 # Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de leag of legends quando você estiver dispercebido.
 
