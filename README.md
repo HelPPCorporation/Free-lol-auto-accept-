@@ -23,6 +23,6 @@ https://discord.gg/zwcmqrXGE2">
 
 
 # Desenvolvedores & Developers:
- * <font color="#f00000">DHG</font>
+ * <label color="#ff0000">DHG</font>
  * Pacman
  * R0htg0r
