@@ -8,11 +8,11 @@ Português & English <br>
 
 # Instruções & Instructions:
  1) Faça o clone do HelPP V 0.0.1.rar
- 2) Extraia o arquivo <b>HelPP V 0.0.1.rar</b>
+ 2) Extraia o arquivo HelPP V 0.0.1.rar
+ 3) Execute o programa dentro da pasta do HelPP chamado HelPP_V_0.0.1.exe
+ 4) Para iníciar o programa apenas aperte em "start", para desligar aperte em "stop"
+ 5) Agora está pronto para uso.
 
- 2 - Entre na pasta HelPP
- 3 - Execute o HelPP_V_0.0.1.exe
- 4 - Agora é só clicar em Start (clicando novamente você para o modulo Stop) 
 ![alt text]()
 
 # Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
