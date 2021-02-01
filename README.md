@@ -13,7 +13,7 @@ Português & English <br>
  4) Para iníciar o programa apenas aperte em "start", para desligar aperte em "stop"
  5) Agora está pronto para uso.
 
-![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img1.png)
+![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img/img1.png)
 
 # Comunidade do Discord & Discord Community
 &nbsp;&nbsp;Faça parte da comunidade no Discord. <a href="https://discord.gg/zwcmqrXGE2">Juntar-se ao Discord</a><br>
