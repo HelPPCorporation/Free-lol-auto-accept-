@@ -15,14 +15,12 @@ Português & English <br>
 
 ![alt text]()
 
-# Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
-
-<h1 size="7">Discord Comunit</h1>
+# Discord Comunit
 junte-se a nossa comunidade
 https://discord.gg/zwcmqrXGE2">
 
 
 # Desenvolvedores & Developers:
- * <label color="#ff0000">DHG</font>
+ * DHG
  * Pacman
  * R0htg0r
