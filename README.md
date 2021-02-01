@@ -21,7 +21,7 @@ Português & English <br>
 junte-se a nossa comunidade
 https://discord.gg/zwcmqrXGE2">
 
-# -*- Code by Dhiego -*-
-# Contributors
-# * Pacman
-# * R0htg0r
+
+# Desenvolvedores & Developers:
+ * Pacman
+ * R0htg0r
