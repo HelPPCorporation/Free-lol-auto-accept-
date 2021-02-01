@@ -1,4 +1,6 @@
 # HelPP
+Pronto, fique tranquilo que o HelPP aceitará todas as partidas de League of Legends quando estiver dispercebido.
+
 
 
 # Descriptions
@@ -15,8 +17,6 @@ HelPP é sem complicação
 # 3 - Execute o HelPP_V_0.0.1.exe
 # 4 - Agora é só clicar em Start (clicando novamente você para o modulo Stop) 
 ![alt text]()
-
-# Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de League of Legends quando você estiver dispercebido.
 
 # Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
 
