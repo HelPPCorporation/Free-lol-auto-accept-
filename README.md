@@ -21,6 +21,6 @@ HelPP é sem complicação
 # 4 - Agora é só clicar em Start (clicando novamente você para o modulo Stop) 
 ![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img1.png)
 
-# Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de leag of legends quando você estiver dispercebido.
+# Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de League of Legends quando você estiver dispercebido.
 
 # Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
