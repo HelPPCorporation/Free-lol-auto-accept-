@@ -4,7 +4,7 @@ Pronto, fique tranquilo que o HelPP aceitará todas as partidas de League of Leg
 # Alterações:
 Português
 A versão do HelPP 0.0.1 vem com a função que aceita as partidas de League of Legends enquanto você encontra-se despercebido.
-English
+English<br>
 The HelPP 0.0.1 version comes with the function that accepts League of Legends matches while you are unnoticed. 
 
 # Modo de usar \ How to use
