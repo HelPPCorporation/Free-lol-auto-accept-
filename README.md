@@ -1,5 +1,5 @@
 # -*- Code by Dhiego -*-
-# Dicord Comunit
+# Discord Comunit
 # junte-se a nossa comunidade
 # join our community
 https://discord.gg/zwcmqrXGE2
