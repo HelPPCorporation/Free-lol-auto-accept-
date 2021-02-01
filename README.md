@@ -15,9 +15,8 @@ Português & English <br>
 
 ![alt text]()
 
-# Discord Comunit
-junte-se a nossa comunidade
-https://discord.gg/zwcmqrXGE2">
+# Comunidade do Discord & Discord Community
+ <a href="https://discord.gg/zwcmqrXGE2">Juntar-se ao Discord</a>
 
 
 # Desenvolvedores & Developers:
