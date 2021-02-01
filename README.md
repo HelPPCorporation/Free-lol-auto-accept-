@@ -1,6 +1,6 @@
 # -*- Code by Dhiego -*-
 # Contributors
-# Pacman
+# * Pacman
 
 
 # Discord Comunit
