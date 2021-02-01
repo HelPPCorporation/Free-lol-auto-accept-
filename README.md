@@ -8,7 +8,7 @@ Português & English <br>
 
 # Modo de usar \ How to use
 
-HelPP é sem complicação 
+HelPP é sem complicação
 
 # 1 - baixe HelPP V 0.0.1.rar 
 # 2 - Entre na pasta HelPP
