@@ -20,6 +20,6 @@ Português & English <br>
 &nbsp;&nbsp;Join the Discord community. <a href="https://discord.gg/zwcmqrXGE2">Join Discord</a>
 
 # Desenvolvedores & Developers:
- * DHG
- * Pacman
- * R0htg0r
+ * DHG - Diretor/Desenvolvedor
+ * R0htg0r - Desenvolvedor
+ * Pacman - Desenvolvedor
