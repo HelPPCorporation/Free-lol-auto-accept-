@@ -1,6 +1,4 @@
-# <h1 size="7">Discord Comunit</h1>
-# junte-se a nossa comunidade
-# <a href="https://discord.gg/zwcmqrXGE2">join our community</a>
+# HelPP
 
 
 # Descriptions
@@ -21,6 +19,10 @@ HelPP é sem complicação
 # Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de League of Legends quando você estiver dispercebido.
 
 # Obs: Para novidades e atualizações junte-se a nossa comunidade do discord:https://discord.gg/zwcmqrXGE2
+
+<h1 size="7">Discord Comunit</h1>
+junte-se a nossa comunidade
+https://discord.gg/zwcmqrXGE2">
 
 # -*- Code by Dhiego -*-
 # Contributors
