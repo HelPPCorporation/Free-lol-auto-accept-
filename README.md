@@ -18,8 +18,8 @@ HelPP é sem complicação
 # 1 - baixe HelPP V 0.0.1.rar 
 # 2 - Entre na pasta HelPP
 # 3 - Execute o HelPP_V_0.0.1.exe
-# 4 - Agora é só clicar em Start 
-![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img2.png)
+# 4 - Agora é só clicar em Start (clicando novamente você para o modulo Stop) 
+![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img1.png)
 
 # Pronto ! agora fique tranquilo que o helpp aceitarar todas as partidas de leag of legends quando você estiver dispercebido.
 
