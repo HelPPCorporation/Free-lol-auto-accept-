@@ -14,11 +14,11 @@ Português & English <br>
  5) Agora está pronto para uso.
 
 ![alt text](https://github.com/HelPPCorporation/Free-lol-auto-accept-/blob/main/img/img1.png)
-
+<!--
 # Comunidade do Discord & Discord Community
-<!--&nbsp;&nbsp;Faça parte da comunidade no Discord. <a href="https://discord.gg/zwcmqrXGE2">Juntar-se ao Discord</a><br>-->
+&nbsp;&nbsp;Faça parte da comunidade no Discord. <a href="https://discord.gg/zwcmqrXGE2">Juntar-se ao Discord</a><br>
 &nbsp;&nbsp;Join the Discord community. <a href="https://discord.gg/zwcmqrXGE2">Join Discord</a>
-
+-->
 # Desenvolvedores & Developers:
  * DHG - Diretor/Desenvolvedor
  * R0htg0r - Desenvolvedor
